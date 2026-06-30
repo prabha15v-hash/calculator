@@ -1,0 +1,25 @@
+h1{ color: whitesmoke;
+}
+#display{
+    padding-right:100px;
+    background-color:white;
+    color:black;
+    padding-bottom: 20px ;
+    box-shadow: 6px 6px 6px yellow;
+    margin:8px;
+    font-size: 20px;
+}
+body{
+    background-image:url('beach.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+button{
+    color:white;
+    background-color: black;
+    padding:20px ;
+    margin:3px;
+    box-shadow: 4px 4px 4px red;
+}
