@@ -1,13 +1,13 @@
 h1{ color: whitesmoke;
 }
 #display{
-    padding-right:100px;
+    padding-right:150px;
     background-color:white;
     color:black;
-    padding-bottom: 20px ;
+    padding-bottom: 50px ;
     box-shadow: 6px 6px 6px yellow;
-    margin:8px;
-    font-size: 20px;
+    margin:20px;
+    font-size: 80px;
 }
 body{
     background-image:url('beach.jpeg');
@@ -19,7 +19,8 @@ body{
 button{
     color:white;
     background-color: black;
-    padding:20px ;
-    margin:3px;
+    padding:50px ;
+    margin:20px;
     box-shadow: 4px 4px 4px red;
+    font-size:70px;
 }
