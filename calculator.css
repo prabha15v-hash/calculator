@@ -23,4 +23,5 @@ button{
     margin:20px;
     box-shadow: 4px 4px 4px red;
     font-size:70px;
+    border-radius:50%;
 }
