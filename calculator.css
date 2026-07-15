@@ -21,8 +21,7 @@ button{
     background-color: white;
     padding:50px ;
     margin:20px;
-    box-shadow: 4px 4px 4px red;
+    box-shadow: 4px 4px 4px aqua;
     font-size:70px;
     border-radius:50%;
-    shadow:5px 5px 5px black;
 }
