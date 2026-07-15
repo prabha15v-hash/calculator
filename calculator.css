@@ -17,11 +17,12 @@ body{
     background-attachment: fixed;
 }
 button{
-    color:white;
-    background-color: black;
+    color:black;
+    background-color: white;
     padding:50px ;
     margin:20px;
     box-shadow: 4px 4px 4px red;
     font-size:70px;
     border-radius:50%;
+    shadow:5px 5px 5px black;
 }
