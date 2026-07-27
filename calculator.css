@@ -24,9 +24,9 @@ button{
     background-color: white;
     padding:50px ;
     margin:20px;
-    box-shadow: 5px 5px 5px red;
+    box-shadow: 10px 10px 10px red;
     font-size:70px;
     clip-path : polygon(50% 0%,100% 50%,50% 100%,0% 50%);
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
 }
