@@ -26,5 +26,5 @@ button{
     margin:20px;
     box-shadow: 5px 5px 5px red;
     font-size:70px;
-    border-radius:50%;
+    clip-path : polygon{50% 0%,100% 50%,50% 100%,0% 50%};
 }
