@@ -27,4 +27,6 @@ button{
     box-shadow: 5px 5px 5px red;
     font-size:70px;
     clip-path : polygon(50% 0%,100% 50%,50% 100%,0% 50%);
+    width: 150px;
+    height: 150px;
 }
