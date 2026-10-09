@@ -22,10 +22,10 @@ body{
 button{
     color:black;
     background-color: white;
-    padding:50px ;
-    margin:20px;
+    padding:40px ;
+    margin:10px;
     box-shadow: 10px 10px 10px red;
-    font-size:70px;
+    font-size:60px;
     clip-path : polygon(50% 0%,100% 50%,50% 100%,0% 50%);
     width: 250px;
     height: 250px;
